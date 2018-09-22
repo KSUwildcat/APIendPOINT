@@ -1,6 +1,17 @@
-{
-  "userId": 1,
-  "id": 1,
-  "title": "delectus aut autem",
-  "completed": false
-}
+[
+    {
+        "id": 1,
+        "make": "test",
+        "model": "test"
+    },
+    {
+        "id": 2,
+        "make": "test",
+        "model": "test"
+    },
+    {
+        "id": 3,
+        "make": "test",
+        "model": "test"
+    }
+]
